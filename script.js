@@ -10,12 +10,9 @@ console.log (desc);
 var mi = 'My Interest:';
 console.log (mi);
 
-var mii = 'BEARS';
-console.log (mii);
-var mii= 'BEETS!';
-console.log (mii);
-var mii = 'BATTLE STAR GALLACTICA!';
-console.log (mii);
+console.log ('Bears');
+console.log ('BEETS!');
+console.log ('BATTLE-STAR GALLACTICA!');
 
 var pe = 'My Previous Experience:';
 console.log (pe);
